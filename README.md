@@ -1,0 +1,5 @@
+This is a Java program that calculates the total time taken for an event to complete. The program prompts the user to enter the number of times they want to test the program, the number of teams participating in the event (which should be a power of 2), the time given for each round, and the break time given after each round in minutes. The program then calculates the total time taken for the event to complete.
+
+This program can be used in events such as quiz competitions, hackathons, and other similar events where multiple teams compete against each other. The program can be used to calculate the total time taken for the event to complete, which can help organizers plan the event better and ensure that it runs smoothly.
+
+The program works by calculating the number of rounds required for the event to complete, based on the number of teams participating. It then calculates the total time taken for the event to complete, based on the time given for each round and the break time given after each round.
